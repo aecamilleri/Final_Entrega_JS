@@ -1,0 +1,54 @@
+{
+  "electro": [{
+          "nombre": "Pava Electrica",
+          "precio": 13439
+      },
+      {
+          "nombre": "Microondas Grill Digital",
+          "precio": 41999
+      },
+      {
+          "nombre": "Aspiradora Inteligente Robot",
+          "precio": 55309
+      }
+  ],
+  "tv": [{
+          "nombre": "Smart TV 32",
+          "precio": 64999
+      },
+      {
+          "nombre": "Smart Tv Android Full Hd 40",
+          "precio": 85999
+      },
+      {
+          "nombre": "SMART TV 50",
+          "precio": 162839
+      }
+  ],
+  "audio": [{
+          "nombre": "Auriculares Vincha Plegable",
+          "precio": 8129
+      },
+      {
+          "nombre": "Minicomponente Panacom SP",
+          "precio": 199999
+      },
+      {
+          "nombre": "Barra de Sonido SB100SW",
+          "precio": 91879
+      }
+  ],
+  "celulares": [{
+          "nombre": "Smartphone 6,5 Moto E32",
+          "precio": 65999
+      },
+      {
+          "nombre": "Smartphone Galaxy Z Flip4",
+          "precio": 425599
+      },
+      {
+          "nombre": "CELULAR IPRO V12 FLIP",
+          "precio": 21149
+      }
+  ]
+}
